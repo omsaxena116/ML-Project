@@ -1,5 +1,12 @@
-pandas
 numpy
+pandas
+matplotlib
 seaborn
+scikit-learn
+jupyter
+ipykernel
+catboost
+xgboost
 -e .
 
+      
